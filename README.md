@@ -6,7 +6,7 @@ This analysis based project helps to understand the influence of the parents bac
 
 # Context
 Marks secured by the students in different subjects like
-1. Maths
+1. Mathematics
 2. English
 3. Science
 with some other important credentials related to academics
