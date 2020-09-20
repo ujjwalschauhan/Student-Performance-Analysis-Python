@@ -1,5 +1,5 @@
 # Student's-Performance-Analyzer
-Students Performance Evaluation using Feature Engineering, Feature Extraction, Manipulation of Data, Data Analysis, Data Visualization and at lat applying Classification Algorithms from Machine Learning to Separate Students with different grades
+Students Performance Evaluation using Feature Engineering, Feature Extraction, Manipulation of Data, Data Analysis, Data Visualization and applied Classification Algorithms from external agencies.
 
 # Description
 This analysis based project helps to understand the influence of the parents background, test preparation and other factor's on student's performance.
